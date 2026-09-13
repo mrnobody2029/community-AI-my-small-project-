@@ -1,0 +1,3 @@
+timestamp,user_id,question,hints_used,completed
+2026-08-17 09:14:56,Vòng lặp while trong Python là gì?,2,,True
+2026-08-17 09:17:19,Vòng lặp while trong Python là gì?,2,[Gợi ý Level 2] Đối với câu hỏi 'Vòng lặp while trong Python là gì?': Vòng lặp while kiểm tra một 'điều kiện'. Cú pháp cơ bản là `while dieu_kien:`.,True

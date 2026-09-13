@@ -1,0 +1,15 @@
+{
+  "8c9623e1": {
+    "title": "hello sir",
+    "messages": [
+      {
+        "prompt": "hello sir",
+        "gemini_resp": "**[Gemini gemini-2.5-flash]**\n\nĐã nhận xử lý câu hỏi: `hello sir`\n\n- Câu trả lời đã được lưu lại tự động vào lịch sử góc bên trái.\n- Bạn có thể tắt app và mở lại bất cứ lúc nào!"
+      },
+      {
+        "prompt": "này bạn ơi",
+        "gemini_resp": "**[Gemini gemini-2.5-flash]**\n\nĐã nhận xử lý câu hỏi: `này bạn ơi`\n\n- Câu trả lời đã được lưu lại tự động vào lịch sử góc bên trái.\n- Bạn có thể tắt app và mở lại bất cứ lúc nào!"
+      }
+    ]
+  }
+}
