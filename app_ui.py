@@ -16,7 +16,7 @@ SUGGESTIONS = [
 
 BACKEND_HOST = os.getenv("BACKEND_HOST", "127.0.0.1")
 BACKEND_PORT = os.getenv("BACKEND_PORT", "8000")
-BASE_URL = f"http://{BACKEND_HOST}:{BACKEND_PORT}"
+BASE_URL = "https://community-ai-my-small-project-zuve.onrender.com"
 
 STORE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "conversation_store.json")
 
